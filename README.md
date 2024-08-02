@@ -1,10 +1,59 @@
-- 👋 Hi, I’m @sudoping01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Seydou DIALLO
 
-<!---
-sudoping01/sudoping01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Self-trained Software Developer | IoT & AI Enthusiast**
+
+## Skills
+
+- **Programming Languages:** Python, C++, Java
+- **Linux System Administration**
+- **IoT Software Development**
+- **Home automation solution development**
+- **WebRTC Video and Audio Streaming solution implementation**
+- **MQTT Communication solution Implementation**
+- **AWS Services:** IoT Core, Kinesis Video Streams, ECR
+- **ESPHome Development**
+- **Containerization:** Docker, Docker Compose
+- **ONVIF Discovery & PTZ Control Software Development**
+
+
+## Experience
+
+### CAYTU | Software Developer (Part-time)
+- Developed and maintained software for remote control of IoT devices.
+- Contribute to the implementation  WebRTC-based solutions for real-time video and audio streaming for in IoT applications.
+- Cloud computing, primarily utilizing AWS services to enhance IoT solutions.
+- Developed firmware for embedded systems, specifically for ESP32 devices.
+- Developed software for ONVIF device discovery and PTZ control.
+- Developed and maintained AI virtual assistant for IoT device control and management.
+
+### RobotsMali | Co-author, Python Trainer, System Administrator, Developer (Part-time)
+- Co-authored the GAIFE research project, focusing on AI and natural language processing for local languages (Bambara).
+- Linux system administration
+- Provided training in Python programming for 2022 camp-stem students
+- Contributed to the Bayelemabaga project, involved in data preprocessing tasks.
+- Participated international robotics competitions and festival of Science, representing Mali mainly I-fest (International Festival of Science and technology)  and PARC (Pan-African Robotics Competition)
+
+### K'ETA COMPANY | Software Developer (Part-time)
+- Device Tracking platform front-end development 
+
+### Lycée Technique de Bamako | Python Trainer
+- Taught Python programming to students, helping them build a foundation in coding.
+
+## Projects
+
+I have contributed to various projects, focusing on open-source initiatives and some private endeavors.
+
+- Explore my public repos 😊
+
+## Education
+
+- **Computer Science**  
+  Dakar American University of Science & Technology ([DAUST](www.daust.org))
+- **Ecole Normale d'Enseignement Technique et Professionnel**
+- **Lycée Technique de Bamako**
+
+## Contact
+
+- **Email:** mail.seydou.diallo@gmail.com
+- **Work Email:** sdiallo@caytu.com
+- **LinkedIn:** [Seydou Diallo](https://www.linkedin.com/in/seydou-diallo-08ab311ba/)
