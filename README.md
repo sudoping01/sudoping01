@@ -20,18 +20,18 @@
 
 ### CAYTU | Software Developer (Part-time)
 - Developed and maintained software for remote control of IoT devices.
-- Contribute to the implementation  WebRTC-based solutions for real-time video and audio streaming for in IoT applications.
+- Contribute to the implementation of WebRTC-based solutions for real-time video and audio streaming for IoT applications.
 - Cloud computing, primarily utilizing AWS services to enhance IoT solutions.
 - Developed firmware for embedded systems, specifically for ESP32 devices.
 - Developed software for ONVIF device discovery and PTZ control.
 - Developed and maintained AI virtual assistant for IoT device control and management.
 
 ### RobotsMali | Co-author, Python Trainer, System Administrator, Developer (Part-time)
-- Co-authored the GAIFE research project, focusing on AI and natural language processing for local languages (Bambara).
+- Co-authored the GAIFE research project, focusing on AI and natural language processing (GenAI) to Improve Literacy in Low-resourced Settings (case of bambara)
 - Linux system administration
 - Provided training in Python programming for 2022 camp-stem students
 - Contributed to the Bayelemabaga project, involved in data preprocessing tasks.
-- Participated international robotics competitions and festival of Science, representing Mali mainly I-fest (International Festival of Science and technology)  and PARC (Pan-African Robotics Competition)
+- Participated international robotics competitions and festival of Science, representing Mali mainly in i-fest (International Festival of Science and technology)  and PARC (Pan-African Robotics Competition)
 
 ### K'ETA COMPANY | Software Developer (Part-time)
 - Device Tracking platform front-end development 
