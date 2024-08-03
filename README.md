@@ -1,6 +1,6 @@
 ## Seydou DIALLO
 
-**Self-trained Software Developer | IoT & AI Enthusiast**
+**Self-trained Software Developer | IoT | AI Enthusiast| Linux admin |**
 
 ## Skills
 
