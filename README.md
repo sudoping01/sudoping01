@@ -1,6 +1,3 @@
-//![Sed's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoping01&show_icons=true&theme=transparent&hide=stars)
-
-
 ## Seydou DIALLO
 
 **Self-trained Software Developer | IoT | AI Enthusiast| Linux admin |**
