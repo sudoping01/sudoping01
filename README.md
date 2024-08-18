@@ -46,13 +46,6 @@ I have contributed to various projects, focusing on open-source initiatives and 
 
 - Explore my public repos 😊
 
-## Education
-
-- **Computer Science**  
-  Dakar American University of Science & Technology ([DAUST](www.daust.org))
-- **Ecole Normale d'Enseignement Technique et Professionnel**
-- **Lycée Technique de Bamako**
-
 ## Contact
 
 - **Email:** mail.seydou.diallo@gmail.com
