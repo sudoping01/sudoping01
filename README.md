@@ -2,7 +2,7 @@
 **Self-trained Software Developer | IoT | AI Enthusiast| Linux admin |**
 ## Skills
 - **Programming Languages:**
-![C Logo](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C&logoColor=white) ![C++ Logo](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) ![Java Logo](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C++ Logo](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) ![Java Logo](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 - **Linux System Administration**
 - **IoT Software Development**
 - **Home automation solution development**
