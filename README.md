@@ -5,7 +5,8 @@
 
 ## Skills
 
-- **Programming Languages:** Python, C++, Java
+- **Programming Languages:**
+![C Logo](https://img.shields.io/badge/-C-000000?style=flat-square&logo=C&logoColor=white) ![C++ Logo](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white) ![Python Logo](https://img.shields.io/badge/-Python-008000?style=flat-square&logo=Python&logoColor=white) 
 - **Linux System Administration**
 - **IoT Software Development**
 - **Home automation solution development**
