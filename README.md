@@ -1,7 +1,11 @@
-## Seydou DIALLO
-**Self-trained Software Developer | IoT | AI Enthusiast| Linux admin |**
-- Explore my public repos 😊
-## Contact
-- **Email:** mail.seydou.diallo@gmail.com
-- **Work Email:** sdiallo@caytu.com
-- **LinkedIn:** [Seydou Diallo](https://www.linkedin.com/in/seydou-diallo-08ab311ba/)
+'
+  ____  _   _ ____   ___    ____ ___ _   _  ____    ___  _ 
+ / ___|| | | |  _ \ / _ \  |  _ \_ _| \ | |/ ___|  / _ \/ |
+ \___ \| | | | | | | | | | | |_) | ||  \| | |  _  | | | | |
+  ___) | |_| | |_| | |_| | |  __/| || |\  | |_| | | |_| | |
+ |____/ \___/|____/ \___/  |_|  |___|_| \_|\____|  \___/|_|
+'
+
+
+- **Work Email:** sudoping01@gmail.com
+
