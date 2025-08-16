@@ -7,7 +7,6 @@
  |____/ \___/|____/ \___/  |_|  |___|_| \_|\____|  \___/|_|
 
 ```
-- **EMAIL:** sudoping01@gmail.com
 
 <picture>
   <source
