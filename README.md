@@ -20,5 +20,3 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
-
-- sudoping01@gmail.com
